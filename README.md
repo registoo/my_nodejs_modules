@@ -1,6 +1,6 @@
 # my_nodejs_modules
 
-# ```diff
+```diff
 - ПЕРЕЧЕНЬ ФАЙЛОВ
 ```
 
