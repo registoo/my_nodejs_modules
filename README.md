@@ -1,12 +1,5 @@
 # my_nodejs_modules
 
-```git
-blad hoinya kakayato
+# ПЕРЕЧЕНЬ ФАЙЛОВ
 
-da powli oni nahooi
-
-
-????
-
-???
-```
+1. files_COUNT_and_DELETE.js - выводит в консоль файлы и считает их. Так же удаляет папки и директории
